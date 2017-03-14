@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Sounds/shot.wav</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Music/long_road_ahead.mp3</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/explosion_small.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/bullets.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Sounds/hit2.mp3</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/explosion.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/bullet_hit_blue.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Sounds/explosion_large1.wav</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Sounds/explosion_large2.wav</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Sounds/explosion_medium.wav</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Sounds/explosion_small.wav</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/powerup_weapon.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Sounds/powerup_weapon.wav</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/powerup_life.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Sounds/powerup_life.wav</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Sounds/powerup_bomb.wav</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/powerup_bomb.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/cursor.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Fonts/titleFont.spritefont</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Sounds/ui_move.wav</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Sounds/ui_accept.wav</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/on_off_switch_off.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/on_off_switch_on.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Sounds/ui_back.wav</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Fonts/menu_option.spritefont</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Fonts/title.spritefont</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Fonts/small_text.spritefont</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Fonts/game_over_score.spritefont</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Fonts/high_score.spritefont</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/fill_bar.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/fill_bar_fill.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Music/killers.mp3</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/Bug.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/bullet_hit_green.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/stationary.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Sounds/hit.wav</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/exhaust.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/explosion_large.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/explosion_player_3.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/explosion_player_4.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/explosion_player1.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/explosion_player2.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/implosion.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Sounds/respawn.wav</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/circle.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/aabb1.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/aabb2.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/poly1.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/poly2.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/poly3.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Graphics/aabb3.png</File>
+    <File>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Fonts/ui.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

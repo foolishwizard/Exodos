@@ -1,0 +1,14 @@
+shot Sounds\\shot
+hit Sounds\\hit2
+turret_shot Sounds\\hit
+explosion_small Sounds\\explosion_small
+explosion_medium Sounds\\explosion_medium
+explosion_large1 Sounds\\explosion_large1
+explosion_large2 Sounds\\explosion_large2
+powerup_weapon Sounds\\powerup_weapon
+powerup_life Sounds\\powerup_life
+powerup_bomb Sounds\\powerup_bomb
+ui_move Sounds\\ui_move
+ui_accept Sounds\\ui_accept
+ui_back Sounds\\ui_back
+respawn Sounds\\respawn

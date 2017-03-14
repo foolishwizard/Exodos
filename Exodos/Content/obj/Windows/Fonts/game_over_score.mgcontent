@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/Fonts/game_over_score.spritefont</SourceFile>
+  <SourceTime>2017-01-22T23:51:03.412817+01:00</SourceTime>
+  <DestFile>C:/Users/Kradziej/Documents/Uni-LJ/Game Technology and Virtual Reality/Exodos/Exodos/Content/bin/Windows/Fonts/game_over_score.xnb</DestFile>
+  <DestTime>2017-01-29T11:45:08.2274041+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
